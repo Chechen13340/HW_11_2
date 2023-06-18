@@ -9,6 +9,8 @@ def get_string(user_input):
 
 def get_title(user_input):
     """
+
+
     :param user_input:
     :return:
     """
